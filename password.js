@@ -1,6 +1,6 @@
 {
 
-  "secretCode": "TradzSigma",
+  "secretCode": "rasyaa",
 
   "description": "Jinshi New Meta", 
 
